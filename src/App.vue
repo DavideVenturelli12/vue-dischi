@@ -24,4 +24,9 @@ export default {
   padding: 0;
   margin: 0;
 }
+
+body {
+  font-family: sans-serif;
+  height: 100vh;
+}
 </style>
