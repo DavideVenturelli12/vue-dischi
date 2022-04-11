@@ -64,8 +64,8 @@ main {
     flex-wrap: wrap;
     padding: 50px 0;
     .card {
-      width: 150px;
       height: 300px;
+      width: 150px;
       display: flex;
       flex-direction: column;
       align-items: center;
